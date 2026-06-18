@@ -15,6 +15,7 @@ destilliert aus realen Projekten, bewusst abstrakt gehalten für Wiederverwendba
 |---|---|
 | [architektur/zwei-repo-pattern.md](architektur/zwei-repo-pattern.md) | Planungs-Repo ↔ Implementierungs-Repo trennen |
 | [architektur/subagenten-system.md](architektur/subagenten-system.md) | spec+impl Agents, Orchestrator-Pattern |
+| [architektur/claude-github-app.md](architektur/claude-github-app.md) | GitHub App installieren, Issue→PR-Workflow |
 | [templates/CLAUDE.md](templates/CLAUDE.md) | Kopierbares CLAUDE.md-Template |
 | [templates/agents/spec-agent.md](templates/agents/spec-agent.md) | Template: Planungs-Agent (read-only) |
 | [templates/agents/impl-agent.md](templates/agents/impl-agent.md) | Template: Implementierungs-Agent (schreibend) |
